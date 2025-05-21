@@ -1,0 +1,7 @@
+C:\Users\qh061\source\repos\RandomCard_Server\RandomCard_Server\bin\Debug\RandomCard_Server.exe.config
+C:\Users\qh061\source\repos\RandomCard_Server\RandomCard_Server\bin\Debug\RandomCard_Server.exe
+C:\Users\qh061\source\repos\RandomCard_Server\RandomCard_Server\bin\Debug\RandomCard_Server.pdb
+C:\Users\qh061\source\repos\RandomCard_Server\RandomCard_Server\obj\Debug\RandomCard_Server.csprojAssemblyReference.cache
+C:\Users\qh061\source\repos\RandomCard_Server\RandomCard_Server\obj\Debug\RandomCard_Server.csproj.CoreCompileInputs.cache
+C:\Users\qh061\source\repos\RandomCard_Server\RandomCard_Server\obj\Debug\RandomCard_Server.exe
+C:\Users\qh061\source\repos\RandomCard_Server\RandomCard_Server\obj\Debug\RandomCard_Server.pdb
